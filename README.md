@@ -4,3 +4,5 @@
 
 
 ### html + css + javascript[ board items .map() ]
+
+### [SSR - Server Side Rendering] migration to make .php   ~ introduce
